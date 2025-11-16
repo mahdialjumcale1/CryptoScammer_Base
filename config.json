@@ -1,0 +1,9 @@
+here{
+  "wallet": "TJpScamWallet2025abcdef1234567890",
+  "min_gas": 5,
+  "max_gas": 25,
+  "spam_per_hour": 10000,
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "project_name": "BASE AIRDROP JP",
+  "auto_rotate_wallet": false
+}
